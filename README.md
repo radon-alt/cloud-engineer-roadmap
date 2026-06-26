@@ -92,3 +92,29 @@ Coming soon...
 Become a professional Cloud & DevOps Engineer through consistent daily practice, real-world projects, and continuous learning.
 
 > "Consistency beats intensity."
+
+# 📂 Portfolio Projects
+
+## 🐧 Linux
+- Linux Learning Journey
+  https://github.com/radon-alt/linux-learning-journey
+
+## 📚 Git
+- Git Labs
+  Coming Soon
+
+## 🐳 Docker
+- Docker Projects
+  Coming Soon
+
+## ☁️ AWS
+- AWS Labs
+  Coming Soon
+
+## 🏗 Terraform
+- Terraform Labs
+  Coming Soon
+
+## ☸️ Kubernetes
+- Kubernetes Projects
+  Coming Soon
